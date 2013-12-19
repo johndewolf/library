@@ -41,6 +41,7 @@ group :development, :test do
 end
 
 gem 'hirb'
+gem 'rails-erd'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 
